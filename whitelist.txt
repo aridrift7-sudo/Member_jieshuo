@@ -1,4 +1,5 @@
-AriJoe:hCRRPuyq0vsW6wYy4iZNWSQKZIHzhiXLoOiwfF2Q5mQ=
+AriJoe Lite:9aPbpYJ9Su6BAVQa1PP2shZvXdaeWui/dVSSOqQ5pyA=
+AriJoe MaxPlus:hCRRPuyq0vsW6wYy4iZNWSQKZIHzhiXLoOiwfF2Q5mQ=
 Ari=f0893f3f4183d588
 OsyaNovia=56a99d7d06a8d0aa
 bangJoni=94f08d93e6270aab
