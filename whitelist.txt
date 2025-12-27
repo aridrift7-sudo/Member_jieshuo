@@ -1,6 +1,6 @@
 Ari=f0893f3f4183d588
 OsyaNovia=56a99d7d06a8d0aa
-bangJoni=6c6a76f8d9a86128
+bangJoni=94f08d93e6270aab
 Lxn=06cca4ed6ffd4098
 Mamang=7e05910b84c375f0
 Dirta=868850f16a4d1a8a
